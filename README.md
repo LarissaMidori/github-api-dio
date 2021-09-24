@@ -1,7 +1,7 @@
 # Projeto criado para o bootcamp de react do LocalizaLabs na Digital Innovation One
 
-### Interfaces Componentizadas e reutilizáveis com react
+## Interfaces Componentizadas e reutilizáveis com react
 
-#### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 - React

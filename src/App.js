@@ -1,10 +1,14 @@
-
+import { ResetCSS } from "./components/global/resetCSS";
+import Layout from "./components/layout";
+import Profile from "./components/profile";
 
 function App() {
   return (
-    <div className="App">
-      <h2>Github</h2>
-    </div>
+    <main>
+      <ResetCSS />
+      <Layout />
+      <Profile />
+    </main>
   );
 }
 
