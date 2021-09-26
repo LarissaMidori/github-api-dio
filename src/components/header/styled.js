@@ -4,23 +4,26 @@ export const Wrapper = styled.div`
     display:flex;
     width: 100%;
     justify-content: space-between;
+    margin: 16px;
 
     input {
-        border: 1px solid #ccc;
+        border: 1px solid #;
         border-radius: 8px;
         width: 100%;
         height: 44px;
         padding: 8px;
+        background-color: #fff;
     }
 
     button {
-        background-color: #ccc;
-        padding: 8px 16px;
-        margin: 0 16px;
+        background-color: blue;
+        padding: 8px 36px;
+        margin: 0 26px;
         border-radius: 8px;
+        color: #fff;
 
         &:hover {
-            box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.8);
         }
 
         span {

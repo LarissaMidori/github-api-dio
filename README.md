@@ -5,3 +5,11 @@
 ### Tecnologias utilizadas:
 
 - React
+
+### Bibliotecas utilizadas:
+
+- axios
+
+- react-tabs
+
+- styled-components

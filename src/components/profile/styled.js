@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
     display: flex;
     align-items: flex-start;
+    margin: 24px 16px;
 `;
 
 export const WrapperInfoUser = styled.div`
@@ -33,7 +34,7 @@ export const WrapperStatusCount = styled.div`
     display: flex;
     align-items: center;
     div {
-        margin: 10px;
+        margin: 16px;
         text-align: center;
     }
 `;

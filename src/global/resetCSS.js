@@ -39,6 +39,7 @@ html {
 body {
   margin: 0;
   font-family: poppins, sans-serif;
+  background-color: #ddd;
 }
 
 /**
