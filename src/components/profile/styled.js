@@ -38,10 +38,10 @@ export const WrapperStatusCount = styled.div`
     }
 `;
 
-export const WrapperUsername = styled.div`
+export const WrapperUserGeneric = styled.div`
     display: flex;
     align-items: center;
-    margin-top: 10px;
+    margin-top: 8px;
 
     h3 {
         margin-right: 8px;
