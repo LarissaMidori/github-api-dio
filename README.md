@@ -2,11 +2,11 @@
 
 ## Interfaces Componentizadas e reutilizáveis com react
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas
 
 - React
 
-### Bibliotecas utilizadas:
+### Bibliotecas utilizadas
 
 - axios
 
